@@ -1,1 +1,11 @@
-{"msg":"操作成功","keyDate":"20200915000151","code":0,"KeyValue":"0D1878A5CF1206B6E232FFACB9DE2AD03E22C68C9933D26D","status":"OK"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
