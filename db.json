@@ -1,11 +1,5 @@
 {
-  "qltoken":{
-      "msg":"操作成功",
-      "keyDate":"20200915000151",
-      "code":0,
-      "KeyValue":"EB25FF39A88504E8C8A7F1BA2C15C00A3E22C68C9933D26D",
-      "status":"OK"
-    },
+  "qltoken":{"msg":"操作成功","keyDate":"20200915000151","code":0,"KeyValue":"EB25FF39A88504E8C8A7F1BA2C15C00A3E22C68C9933D26D","status":"OK"},
   "profile": {
     "name": "typicode"
   }
